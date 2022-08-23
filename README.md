@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 - 💻 Eager to improve in **Data** **Science**
 
 - 📫 How to reach me:
-<p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac/" height="30" width="40" style="max-width: 100%;"></a>
+
+- <a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac/" height="30" width="40" style="max-width: 100%;"></a>
 
 
 
