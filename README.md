@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- :school: Student at Izmir Institude of Technology
+- :school: Student at **Izmir Institute of Technology**
 
 - 💻 Eager to improve in **Data** **Science**
 
