@@ -6,7 +6,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
-   <a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac/" height="30" width="40" style="max-width: 100%;"></a>
+<p align="left">
+    <a href="https://linkedin.com/in/tunceratac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac" height="30" width="40" /></a>
+   
+    <a href="https://instagram.com/tunceratc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunceratc" height="30" width="40" /></a>
+</p>
 
 
    <a href="https://github.com/tunceratac/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tunceratac&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tuncer's github stats" /></a> 
@@ -19,7 +23,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="left">
-<a href="https://linkedin.com/in/tunceratac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac" height="30" width="40" /></a>
-<a href="https://instagram.com/tunceratc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunceratc" height="30" width="40" /></a>
-</p>
+
