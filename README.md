@@ -1,4 +1,4 @@
-### Hi I'm Tuncer Atac👋 
+<h1 align="center"> ### Hi I'm Tuncer Atac👋 </h1>
 
 Here are some ideas to get you started:
 
