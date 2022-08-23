@@ -6,9 +6,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
--  [Linkedin](https://www.linkedin.com/in/tunceratac/)
-<a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  <a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow noreferrer">  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a> 
 
 
