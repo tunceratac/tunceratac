@@ -6,7 +6,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
-- <a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow"><img align="center" style = "position: absolute;
+    text-align: center;
+    top: 200px;
+    left: 0px;
+
+    width: 100vw;
+    height: 100px; "src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac/" height="30" width="40" style="max-width: 100%;"></a>
 
 
 
