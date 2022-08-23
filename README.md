@@ -2,6 +2,8 @@
 
 Here are some ideas to get you started:
 
+- :school: 
+
 - 💻 Eager to improve in **Data** **Science**
 
 - 📫 How to reach me:
