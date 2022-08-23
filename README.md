@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/tunceratac/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac/" height="30" width="40" style="position: absolute;
     text-align: center;
     top: 200px;
-    left: 50px;
+    left: 250px;
     width: 40vw;
     height: 30px; ;"> </a>
 
