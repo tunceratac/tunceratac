@@ -4,8 +4,6 @@ Here are some ideas to get you started:
 
 - :school: Computer Engineering student at **Izmir Institute of Technology**
 
-- 💻 Eager to improve in **Data** **Science**
-
 - 📫 How to reach me:
 
     <p align="left">
