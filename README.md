@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
     <p align="left">
-    <a href="https://linkedin.com/in/tunceratac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac" height="30" width="40" /></a>   <a href="https://instagram.com/tunceratc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunceratc" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/tunceratac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunceratac" height="30" width="40" /></a>   <a href="https://instagram.com/tunceratc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunceratc" height="30" width="40" /></a>    <a href="atactuncer@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="atactuncer" height="30" width="40" /></a> 
     
     </p>
 
